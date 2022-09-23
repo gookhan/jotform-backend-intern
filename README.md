@@ -1,7 +1,7 @@
 # jotform-backend-intern
-Communation of between docker containers with php-ssh configuration
+ It was dessigned to manage cronjobs of servers and record the job history. The containers communicate by php-fpm and ssh2 connections. Works on Linux.
 
-* You should create a new directory as shown below:
+* Before you start, you should create a new directory as shown below:
 
 ``mkdir -p /var/lib/postgresql/container_data``
 
